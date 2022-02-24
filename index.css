@@ -1,0 +1,34 @@
+body{
+    background-color: #333232;
+    background-image: url("background.jpg");
+    background-position: center;
+}
+.container{
+
+background-color: #0f2431;
+border: 5px solid #f5f4c3;
+height: 275px;
+width: 750px;
+margin: auto;
+text-align: center;
+margin-top: 200px;
+}
+p{
+    color: white;
+    font-size: 24px;
+}
+#input{
+    width: 100px;
+    margin: 25px auto;
+}
+#btn{
+margin: 25px auto auto 5px;
+
+}
+#last a{
+    font-size: 20px;
+}
+#last{
+margin-top: 100px;
+
+}
